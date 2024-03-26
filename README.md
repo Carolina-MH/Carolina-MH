@@ -9,6 +9,13 @@
 
 <div align="center">
  
+ 🔭 I’m working on growing professionally
+ 
+ 🌱 I’m currently learning **AWS**
+
+⚡ Fun fact **I can turn numbers into stories faster than you can say 'analytics'!"**
+
+ </div>
 
 
  </div>
