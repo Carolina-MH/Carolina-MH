@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **AWS**
 
-⚡ Fun fact **I can turn numbers into stories faster than you can say 'analytics'!"**
+⚡ Fun fact: **I can turn numbers into stories faster than you can say 'analytics'!"**
 
  </div>
 
